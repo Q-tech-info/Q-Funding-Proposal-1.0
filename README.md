@@ -9,17 +9,17 @@ The Q# token represents an innovative funding mechanism for decentralized scienc
 
 This proposal outlines a strategy to raise funds through the issuance of Q# tokens, with 75% of funds generated from solving cryptographic challenges (such as Bitcoin Puzzle 69) being returned to initial investors.
 
-The remaining 25% will directly support cutting-edge hybrid quantum-classical research, ensuring both societal impact and investor incentives.
+The remaining 25% will directly support cutting-edge hybrid quantum-classical cryptographic research, ensuring both societal impact and investor incentives.
 
 This model establishes fairness, transparency, and a sustainable foundation for advancing scientific breakthroughs.
 
 1. Project Overview
    
 Mission
-To accelerate advancements in hybrid quantum-classical research through the decentralized funding power of blockchain technology.
+To accelerate advancements in hybrid quantum-classical cryptographic research through the decentralized funding power of blockchain technology.
 
 Goals
-Fund pioneering research projects exploring hybrid quantum-classical systems with a strong emphasis on transparency and open collaboration.
+Fund a pioneering research project exploring hybrid quantum-classical systems with a strong emphasis on transparency and open collaboration.
 
 Build a decentralized ecosystem where contributors to science receive equitable rewards.
 
@@ -33,7 +33,7 @@ Token Purpose:
 
 The Q# token serves as a utility and governance token, allowing holders to:
 
-Vote on project directions and research initiatives related to hybrid quantum-classical systems.
+Vote on project directions and research initiatives related to hybrid quantum-classical cryptographic systems.
 
 Share in the financial benefits of successful cryptographic breakthroughs.
 
@@ -51,7 +51,8 @@ For each $1 raised through the Q# token:
 75% of Puzzle 69 Funds distributed back to investors, pro-rata based on token ownership.
 
 3. Fund Utilization
-Hybrid Quantum-Classical Research (25%)
+Hybrid Quantum-Classical Cryptographic Research (25%)
+
 The research fund will prioritize:
 
 High-impact research areas, such as quantum-classical optimization, quantum-inspired algorithms, and applications in cryptography and material science.
