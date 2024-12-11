@@ -1,9 +1,15 @@
-# Q-Funding-Proposal-1.0
 
-Funding Proposal for Q#: A DeSci Initiative for Hybrid Quantum-Classical Research
+
+Funding Proposal for Q#: A DeSci Initiative for Hybrid Quantum-Classical Cryptography Research
+
 
 Executive Summary
-The Q# token represents an innovative funding mechanism for decentralized science (DeSci) focused on advancing hybrid quantum-classical research. This proposal outlines a strategy to raise funds through the issuance of Q# tokens, with 75% of funds generated from solving cryptographic challenges (such as Bitcoin Puzzle 69) being returned to initial investors. The remaining 25% will directly support cutting-edge hybrid quantum-classical research, ensuring both societal impact and investor incentives.
+
+The Q# token represents an innovative funding mechanism for decentralized science (DeSci) focused on advancing hybrid quantum-classical  crypographic research. 
+
+This proposal outlines a strategy to raise funds through the issuance of Q# tokens, with 75% of funds generated from solving cryptographic challenges (such as Bitcoin Puzzle 69) being returned to initial investors.
+
+The remaining 25% will directly support cutting-edge hybrid quantum-classical research, ensuring both societal impact and investor incentives.
 
 This model establishes fairness, transparency, and a sustainable foundation for advancing scientific breakthroughs.
 
