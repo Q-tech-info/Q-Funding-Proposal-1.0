@@ -46,11 +46,10 @@ Initial Sale: 80% of tokens available for purchase during the first funding phas
 Reserve: 20% allocated for project operations and community incentives.
 
 Funding Breakdown:
-For each $1 raised through the Q# token:
 
-0.8% Return to Investors for every 1% of tokens purchased, incentivizing proportional participation.
 25% of Puzzle 69 Funds committed to hybrid quantum-classical research.
-75% of Puzzle 69 Funds distributed back to investors, pro-rata based on token ownership.
+
+75% of Puzzle 69 Funds distributed back to investors, pro-rata based on token ownership, ie 0.75% return to Investors for every 1% of tokens purchased, incentivizing proportional participation.
 
 3. Fund Utilization
 Hybrid Quantum-Classical Cryptographic Research (25%)
