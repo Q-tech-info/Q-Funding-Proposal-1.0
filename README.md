@@ -16,9 +16,11 @@ This model establishes fairness, transparency, and a sustainable foundation for 
 1. Project Overview
    
 Mission
+
 To accelerate advancements in hybrid quantum-classical cryptographic research through the decentralized funding power of blockchain technology.
 
 Goals
+
 Fund a pioneering research project exploring hybrid quantum-classical systems with a strong emphasis on transparency and open collaboration.
 
 Build a decentralized ecosystem where contributors to science receive equitable rewards.
